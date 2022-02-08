@@ -1,3 +1,3 @@
 #  archconfig
  
-A simple, lightweight Archlinux configuration toolweight Archlinux configuration tool.
+A simple, lightweight Archlinux configuration tool.
